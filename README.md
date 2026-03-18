@@ -102,7 +102,7 @@ Me chamo Yuji Yamagishi da Silva, tenho 20 anos e atualmente resido no Pará. At
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yujiyamagishi&show_icons=true&theme=tokyonight&include_all_commits=true&include_all_pr=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=yujiyamagishi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
